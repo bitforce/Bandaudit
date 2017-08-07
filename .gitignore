@@ -1,0 +1,10 @@
+NOTICE.md
+speeds.log
+errors.txt
+__pycache__
+.deliverables/
+.ropeproject/
+.cache/
+*.png
+*.pyc
+*.swp
