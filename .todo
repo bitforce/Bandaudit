@@ -1,0 +1,2 @@
+Make this a pip package, but instead of setuptools, use distutils.core so that
+you can test using MANIFEST[.in] and not *.egg-info packages
